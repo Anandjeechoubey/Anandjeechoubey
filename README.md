@@ -6,5 +6,19 @@
 - 🌱 I’m currently learning Django, SQL and some DevOps stuff
 - 💬 Ask me about anything related to webdev.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anand-jee-choubey/)
-- 😄 Pronouns: Andy
+- 😄 You can call me: Andy
 
+<h2> My ghs: <img src="https://media.giphy.com/media/8lQyyys3SGBoUUxrUp/giphy.gif" width="25px"> </h2>
+
+<img src="./ghs1.png">
+<img src="./ghs2.png">
+<img src="./ghs3.png">
+
+### 📊 Github Stats
+
+<a href="https://github.com/Anandjeechoubey">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anandjeechoubey&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Yash's github stats" style="width:56%;" />
+</a>
+<a href="https://github.com/Anandjeechoubey">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandjeechoubey&layout=compact&theme=material-palenight&langs_count=8" style="width:40%;" />
+</a>
