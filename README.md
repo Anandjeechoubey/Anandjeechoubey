@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning Django, SQL and some DevOps stuff
 - 💬 Ask me about anything related to webdev.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anand-jee-choubey/)
+- 📩 Email me: [Gmail](mailto:anandjechoubey@gmail.com)
+- 📜 Find my resume: [Resume](https://anandjeechoubey.netlify.app/assets/Resume.pdf)
 - 😄 You can call me: Andy
 
 <h2> My ghs: <img src="https://media.giphy.com/media/8lQyyys3SGBoUUxrUp/giphy.gif" width="25px"> </h2>
